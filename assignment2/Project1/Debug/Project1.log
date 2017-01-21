@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\kenel\documents\visual studio 2015\projects\project1\project1\main.cpp(114): warning C4242: '+=': conversion from 'int' to 'unsigned char', possible loss of data
+c:\users\kenel\documents\visual studio 2015\projects\project1\project1\main.cpp(128): warning C4551: function call missing argument list
+c:\users\kenel\documents\visual studio 2015\projects\project1\project1\main.cpp(132): warning C4551: function call missing argument list
+c:\users\kenel\documents\visual studio 2015\projects\project1\project1\main.cpp(166): warning C4551: function call missing argument list
+c:\users\kenel\documents\visual studio 2015\projects\project1\project1\main.cpp(420): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\kenel\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\kenel\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
